@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/23/90/b3/2390b39b46a82fec710d51c95ceb3aae.jpg)](http://github.com/hoanghamy98)
+[![MasterHead](https://github.com/hoanghamy98/hoanghamy98/blob/main/banner.png)](http://github.com/hoanghamy98)
 
 ### Hi there 👋
 
