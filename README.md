@@ -1,3 +1,5 @@
+[![MasterHead](https://www.pinterest.co.uk/pin/965811082563965125)](http://github.com/hoanghamy98)
+
 ### Hi there 👋
 
 My name is Ha My (she/her), you can call me Maya. I'm a student pursuing an MSc in Investment Analysis at Aston University. I code for the purpose of both working professionally and my own interest. I use Python most of the time. 
