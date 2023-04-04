@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+My name is Ha My, you can call me Maya. I'm a student in the Finance field who codes for the purpose of both working professionally and my own interest. I use Python most of the time. 
 
+I have so much to learn, and I have felt so excited about this journey ever since I started it. Feel free to reach me out!
 <!--
 **hoanghamy98/hoanghamy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
