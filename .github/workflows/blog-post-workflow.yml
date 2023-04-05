@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in wordpress.com posts
-        uses: hoanghamy98/blog-post-workflow@v1
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://mikaylahoang.wordpress.com/"
+          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
