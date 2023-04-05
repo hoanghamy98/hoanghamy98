@@ -6,7 +6,16 @@ My name is Ha My (she/her), you can call me Maya. I'm a student pursuing an MSc 
 
 I have so much to learn, and I have felt so excited about this journey ever since I started it. I'm passionate about exploring new technologies and leveraging them to solve real-life problems. Feel free to reach me out!
 
+### Blog posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hoanghamy98&theme=graywhite)](https://git.io/streak-stats)
+
+<h3 align="left">Languages and Tools:</h3>
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
