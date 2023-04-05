@@ -52,11 +52,8 @@ I have so much to learn, and I have felt so excited about this journey ever sinc
 
 ### 🔳 What I'm reading:
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [Building a portfolio with Python: A long-short strategy](https://dev.to/hoanghamy98/building-a-portfolio-with-python-a-long-short-strategy-2oaf)
+- [Building a portfolio with Python: A look-back strategy](https://dev.to/hoanghamy98/building-a-portfolio-with-python-a-look-back-strategy-57o3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔳 What inspires me:
