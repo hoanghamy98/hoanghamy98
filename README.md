@@ -6,14 +6,8 @@ My name is Ha My (she/her), you can call me Maya. I'm a student pursuing an MSc 
 
 I have so much to learn, and I have felt so excited about this journey ever since I started it. I'm passionate about exploring new technologies and leveraging them to solve real-life problems. Feel free to reach me out!
 
-### What I'm reading:
-<!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-<!-- BLOG-POST-LIST:END -->
+### Stats:
+[![Maya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoanghamy98)](https://github.com/hoanghamy98/github-readme-stats)
 
 ### Streaks:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hoanghamy98&theme=graywhite)](https://git.io/streak-stats)
@@ -55,6 +49,15 @@ I have so much to learn, and I have felt so excited about this journey ever sinc
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
+
+### What I'm reading:
+<!-- BLOG-POST-LIST:START -->
+- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+<!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
 <p align="left">
