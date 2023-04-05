@@ -13,6 +13,10 @@ I have so much to learn, and I have felt so excited about this journey ever sinc
 ### 🔳 Streaks:
 &emsp;&emsp;&ensp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hoanghamy98&theme=graywhite)](https://git.io/streak-stats)
 
+### 🔳 Waka:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 🔳 Languages and Tools:
 #### &ensp;▶️ I code using
 &emsp;&emsp;&ensp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
