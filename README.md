@@ -75,6 +75,9 @@ I have so much to learn, and I have felt so excited about this journey ever sinc
 
 ### 🔳 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Working with Python in Visual Studio: Tips &amp; Tricks](https://dev.to/hoanghamy98/working-with-python-in-visual-studio-tips-tricks-4fob)
+- [Bond YTM sensitivity analysis with Python: A global-minimum approach](https://dev.to/hoanghamy98/bond-ytm-sensitivity-analysis-a-global-minimum-approach-4f43)
+- [The Efficient Frontier Set: Python approach](https://dev.to/hoanghamy98/the-efficient-frontier-set-3j1c)
 - [Building a portfolio with Python: A long-short strategy](https://dev.to/hoanghamy98/building-a-portfolio-with-python-a-long-short-strategy-2oaf)
 - [Building a portfolio with Python: A look-back strategy](https://dev.to/hoanghamy98/building-a-portfolio-with-python-a-look-back-strategy-57o3)
 <!-- BLOG-POST-LIST:END -->
