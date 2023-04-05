@@ -10,6 +10,7 @@ I have so much to learn, and I have felt so excited about this journey ever sinc
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### Streaks:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hoanghamy98&theme=graywhite)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
