@@ -9,7 +9,7 @@ My name is Ha My (she/her), you can call me Maya. I'm a student pursuing an MSc 
 I have so much to learn, and I have felt so excited about this journey ever since I started it. I'm passionate about exploring new technologies and leveraging them to solve real-life problems. Feel free to reach me out!
 
 ### 🔳 Stats:
-&emsp;&emsp;&ensp;[![Maya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoanghamy98&border_color=B2BEB5)](https://github.com/hoanghamy98/github-readme-stats)
+&emsp;&emsp;&ensp;[![Maya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoanghamy98&border_color=B2BEB5&hide=prs)](https://github.com/hoanghamy98/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanghamy98&layout=compact&border_color=B2BEB5)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔳 Streaks:
