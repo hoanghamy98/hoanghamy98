@@ -86,8 +86,7 @@ I have so much to learn, and I have felt so excited about this journey ever sinc
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔳 Inspiration:
-&emsp;&emsp;&ensp;[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31e4yvvzc7wqctyeld2nvp6itnoe&count=4)
+&emsp;&emsp;&ensp;[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border_color=B2BEB5)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### 🔳 Connect with me:
 &emsp;&emsp;
