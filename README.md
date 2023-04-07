@@ -18,13 +18,13 @@ I have so much to learn, and I have felt so excited about this journey ever sinc
 ### 🔳 Waka:
 &emsp;&emsp;&ensp;[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=44a9be79-fbbf-4d91-a67d-019f89cab8cb&border_color=B2BEB5)](https://github.com/hoanghamy98/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-385-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 939 Bytes Used in GitHub's Storage 
+> 📦 956 Bytes Used in GitHub's Storage 
  > 
 > 🏆 67 Contributions in the Year 2023
  > 
@@ -61,22 +61,22 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   15 mins             ██████████████░░░░░░░░░░░   54.55 % 
-Text                     11 mins             ██████████░░░░░░░░░░░░░░░   41.35 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Python                   48 mins             ████████████████████░░░░░   79.27 % 
+Text                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-Visual Studio            25 mins             ███████████████████████░░   90.41 % 
-VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+VS Code                  35 mins             ███████████████░░░░░░░░░░   58.75 % 
+Visual Studio            25 mins             ██████████░░░░░░░░░░░░░░░   41.25 % 
 
 🐱‍💻 Projects: 
-PythonApplication1       12 mins             ███████████░░░░░░░░░░░░░░   44.97 % 
-NewRepo                  11 mins             ██████████░░░░░░░░░░░░░░░   41.35 % 
-[PYTHON]                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-hoanghamy98              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+[PYTHON]                 35 mins             ███████████████░░░░░░░░░░   58.75 % 
+PythonApplication1       12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+NewRepo                  11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+hoanghamy98              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +95,7 @@ Python                   1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hoanghamy98/hoanghamy98/main/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2023 18:37:21 UTC
+ Last Updated on 07/04/2023 18:37:19 UTC
 <!--END_SECTION:waka-->
 
 ### 🔳 Languages and Tools:
