@@ -18,13 +18,13 @@ I have so much to learn, and I have felt so excited about this journey ever sinc
 ### 🔳 Waka:
 &emsp;&emsp;&ensp;[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=44a9be79-fbbf-4d91-a67d-019f89cab8cb&border_color=B2BEB5)](https://github.com/hoanghamy98/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-385-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 956 Bytes Used in GitHub's Storage 
+> 📦 957 Bytes Used in GitHub's Storage 
  > 
 > 🏆 67 Contributions in the Year 2023
  > 
@@ -95,7 +95,7 @@ Python                   1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hoanghamy98/hoanghamy98/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2023 18:37:19 UTC
+ Last Updated on 08/04/2023 18:37:13 UTC
 <!--END_SECTION:waka-->
 
 ### 🔳 Languages and Tools:
