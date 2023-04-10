@@ -8,15 +8,13 @@ My name is Ha My (she/her), you can call me Maya. I'm a student pursuing an MSc 
 
 I have so much to learn, and I have felt so excited about this journey ever since I started it. I'm passionate about exploring new technologies and leveraging them to solve real-life problems. Feel free to reach me out!
 
+### 🔳 Streaks:
+&emsp;&emsp;&ensp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hoanghamy98&theme=graywhite)](https://git.io/streak-stats)
+
 ### 🔳 Stats:
 &emsp;&emsp;&ensp;[![Maya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoanghamy98&border_color=B2BEB5&hide=prs)](https://github.com/hoanghamy98/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanghamy98&layout=compact&border_color=B2BEB5)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔳 Streaks:
-&emsp;&emsp;&ensp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hoanghamy98&theme=graywhite)](https://git.io/streak-stats)
-
-### 🔳 Waka:
-&emsp;&emsp;&ensp;[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=44a9be79-fbbf-4d91-a67d-019f89cab8cb&border_color=B2BEB5)](https://github.com/hoanghamy98/github-readme-stats)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%201%20min-blue)
 
