@@ -60,7 +60,7 @@ Windows                  38 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/hoanghamy98/hoanghamy98/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2023 18:37:16 UTC
+ Last Updated on 17/04/2023 18:38:14 UTC
 <!--END_SECTION:waka-->
 
 ### 🔳 Languages and Tools:
