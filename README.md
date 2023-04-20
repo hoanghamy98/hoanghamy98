@@ -13,9 +13,9 @@ I have so much to learn, and I have felt so excited about this journey ever sinc
 
 ### 🔳 Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
 **I'm a Night 🦉** 
 
@@ -42,18 +42,15 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 52 mins       ████████████████████████░   96.43 % 
-CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Other                    5 hrs 27 mins       ████████████████████████░   97.06 % 
+CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Word                     5 hrs 24 mins       ██████████████████████░░░   88.81 % 
-Powerpoint               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Excel                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Word                     5 hrs 24 mins       ████████████████████████░   96.19 % 
+Excel                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 💻 Operating System: 
-Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -61,7 +58,7 @@ Windows                  6 hrs 5 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/hoanghamy98/hoanghamy98/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2023 18:37:19 UTC
+ Last Updated on 20/04/2023 18:37:40 UTC
 <!--END_SECTION:waka-->
 
 ### 🔳 Languages and Tools:
